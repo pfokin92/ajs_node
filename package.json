@@ -1,0 +1,15 @@
+{
+  "name": "ajs_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "pfokin92",
+  "license": "ISC",
+  "dependencies": {
+    "@pfokin92/ajs": "^1.0.0"
+  }
+}
