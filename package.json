@@ -7,8 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfoki92/ajs_node.git"
+  },
   "author": "pfokin92",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfoki92/ajs_node/issues"
+  },
   "dependencies": {
     "@pfokin92/ajs": "^1.0.0"
   }
