@@ -17,6 +17,6 @@
     "url": "https://github.com/pfoki92/ajs_node/issues"
   },
   "dependencies": {
-    "@pfokin92/ajs": "^1.0.0"
+    "@pfokin92/ajs": "^1.1.1"
   }
 }
